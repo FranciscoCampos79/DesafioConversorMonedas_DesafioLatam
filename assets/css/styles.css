@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+}
+
+h1, h2, p, h3  {
+    color: white;
+}
+
+.conversor {
+    background-color: rgb(74, 70, 70);
+    padding: 20px 0;
+    margin: 0 40%;
+}
+
+.botones {
+    display: inline-grid;
+    gap: 10px;
+    width: 70%;
+}
